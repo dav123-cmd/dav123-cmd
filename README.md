@@ -1,4 +1,4 @@
-Hi, I'm David Oteno Oteno 👋
+Hi, I'm David Oteno Oteno 
 
 Junior Software Developer | Python & Django Developer
 
